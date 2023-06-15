@@ -1,4 +1,4 @@
-## Hi,I'm Tonney Oballa👋🏽👨🏾‍💻
+## Hi, I'm Tonney Oballa👋🏽👨🏾‍💻
 
 [![Typing SVG][def2]](https://git.io/typing-svg)
 
