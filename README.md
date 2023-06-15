@@ -2,7 +2,7 @@
 
 [![Typing SVG][def2]](https://git.io/typing-svg)
 
-<img align="center" src="https://github.com/tonneyoballa/tonneyoballa/tree/main/image/techmom.jpg?raw=true">
+<img align="center" src="https://github.com/tonneyoballa/tonneyoballa/blob/main/image/techmom.jpg?raw=true">
 
 <a href="https://twitter.com/tonnieanto">
     <img alt="Tonnie Anto | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twwitter.svg"></a>
