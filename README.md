@@ -2,7 +2,7 @@
 
 [![Typing SVG][def2]](https://git.io/typing-svg)
 
-[![<a href="https://www.freepik.com/free-vector/alone-concept-illustration_8774989.htm#query=illustrations&position=44&from_view=search&track=sph"]width="100%"&height="100%"]</a>
+
 
 [![Twitter Follow][def]](https://twitter.com/tonnieanto)
 
