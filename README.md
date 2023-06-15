@@ -4,7 +4,8 @@
 
 
 
-[![Twitter Follow][def]](https://twitter.com/tonnieanto)
+<a href="https://twitter.com/tonnieanto">
+    <img align="left" alt="Tonnie Anto | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twwitter.svg" />
 
 As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled by a passion for crafting innovative solutions using cutting-edge technologies. By seamlessly blending design, technology, and artistic elements, I build interactive experiences that not only address unique challenges but also bring joy to people's lives. I find inspiration in the dynamic nature of everyday existence, current trends, and an enduring appreciation for the wonders of nature, sports, and outdoor adventures.
 
@@ -22,5 +23,4 @@ As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled 
 <code><img height="30" src="https://github.com/github/explore/blob/main/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-[def]: https://img.shields.io/witter/follow/tonnieanto?style=social
 [def2]: https://readme-typing-svg.herokuapp.com?size=25&color=e5c99f&center=true&width=800&lines=Welcome+to+my+profile.+Feel+free+to+connect.
