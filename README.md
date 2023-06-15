@@ -27,5 +27,5 @@ As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled 
 
 If you like what i am doing maybe consider buying me coffee🥺👉🏽👈🏽
 
-<a href="https://www.buymeacoffee.com/tonneyoballa" target="_blank"> <img src="https://cdn.buymecoffe.com/button/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+<a href="https://www.buymeacoffee.com/tonneyoballa" target="_blank"> <img src="https://cdn.buymecoffe.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
 <br>
