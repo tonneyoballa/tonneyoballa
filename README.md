@@ -22,4 +22,4 @@ As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 [def]: https://img.shields.io/witter/follow/tonnieanto?style=social
-[def2]: https://readme-typing-svg.herokuapp.com?size=25&color=000&center=true&width=800&lines=Welcome+to+my+profile.+Feel+free+to+connect.
+[def2]: https://readme-typing-svg.herokuapp.com?size=25&color=e5c99f&center=true&width=800&lines=Welcome+to+my+profile.+Feel+free+to+connect.
