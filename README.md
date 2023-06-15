@@ -5,7 +5,7 @@
 <img align="center" src="https://github.com/tonneyoballa/tonneyoballa/tree/main/image/techmom.jpg?raw=true">
 
 <a href="https://twitter.com/tonnieanto">
-    <img alt="Tonnie Anto | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twwitter.svg">
+    <img alt="Tonnie Anto | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twwitter.svg"></a>
 
 As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled by a passion for crafting innovative solutions using cutting-edge technologies. By seamlessly blending design, technology, and artistic elements, I build interactive experiences that not only address unique challenges but also bring joy to people's lives. I find inspiration in the dynamic nature of everyday existence, current trends, and an enduring appreciation for the wonders of nature, sports, and outdoor adventures.
 
