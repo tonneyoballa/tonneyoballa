@@ -4,8 +4,7 @@
 
 <img align="center" src="https://github.com/tonneyoballa/tonneyoballa/blob/main/image/techmom.jpg?raw=true">
 
-<a href="https://twitter.com/tonnieanto">
-    <img alt="Tonnie Anto | Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twwitter.svg"></a>
+[![Twitter: TonnieAnto](https://img.shields.io.twitter/follow/TonnieAnto?style=social)](https://twitter.com/TonnieAnto)
 
 As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled by a passion for crafting innovative solutions using cutting-edge technologies. By seamlessly blending design, technology, and artistic elements, I build interactive experiences that not only address unique challenges but also bring joy to people's lives. I find inspiration in the dynamic nature of everyday existence, current trends, and an enduring appreciation for the wonders of nature, sports, and outdoor adventures.
 
@@ -28,4 +27,5 @@ As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled 
 If you like what i am doing maybe consider buying me coffee🥺👉🏽👈🏽
 
 <a href="https://www.buymeacoffee.com/tonneyoballa" target="_blank"> <img src="https://cdn.buymecoffe.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+
 <br>
