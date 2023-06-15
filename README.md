@@ -24,3 +24,7 @@ As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 [def2]: https://readme-typing-svg.herokuapp.com?size=25&color=e5c99f&center=true&width=800&lines=Welcome+to+my+profile.+Feel+free+to+connect.
+
+If you like what i am doing maybe consider buying me coffee🥺👉🏽👈🏽
+<a href="https://www.buymeacoffee.com/tonneyoballa" target="_blank"><img src="https://cdn.buymecoffe.com/button/v2/default-blue.png"alt="Buy Me A Coffee" width="150"></a>
+<br>
