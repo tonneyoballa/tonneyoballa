@@ -29,3 +29,6 @@ If you like what I'm doing, maybe consider buying me coffee🥺👉🏽👈🏽
 <code><a href="https://www.buymeacoffee.com/tonneyoballa" target="_blank"> <img src="https://cdn.buymecoffe.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a></code>
 
 <br>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life motto function on how to be awesome in code form<a href="https://twitter.com/hashtag/iLoveCode?src=hash&amp;ref_src=twsrc%5Etfw">#iLoveCode</a> <a href="http://t.co/acyulhUl7L">pic.twitter.com/acyulhUl7L</a></p>&mdash; Andela (@Andela) <a href="https://twitter.com/Andela/status/651006471271022592?ref_src=twsrc%5Etfw">October 5, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br>
