@@ -37,7 +37,7 @@ As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled 
   <a href="https://www.buymeacoffee.com/buymeacoffee/tonneyoballa "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee/tonneyoballa " /></a></p><br><br>
 
 <br>
-<code> <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life motto function on how to be awesome in code form<a href="https://twitter.com/hashtag/iLoveCode?src=hash&amp;ref_src=twsrc%5Etfw">#iLoveCode</a> <a href="http://t.co/acyulhUl7L">pic.twitter.com/acyulhUl7L</a></p>&mdash; Andela (@Andela) <a href="https://twitter.com/Andela/status/651006471271022592?ref_src=twsrc%5Etfw">October 5, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<code> <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life motto function on how to be awesome in code form<a href="https://twitter.com/hashtag/iLoveCode?src=hash&amp;ref_src=twsrc%5Etfw">#iLoveCode</a> <a href="http://t.co/acyulhUl7L">pic.twitter.com/acyulhUl7L</a></p>&mdash; Andela (@Andela) <a href="https://twitter.com/Andela/status/651006471271022592?ref_src=twsrc%5Etfw">October 5, 2015</a></blockquote> 
 </code>
 <br>
 
