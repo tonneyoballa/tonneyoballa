@@ -9,12 +9,13 @@ As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled 
 
 📫 How to reach me **tonneyoballah@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://codepen.io/ctonneyoballaodepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ctonneyoballaodepen.io/" height="30" width="40" /></a>
-<a href="https://dev.to/tonneyoballa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tonneyoballa" height="30" width="40" /></a>
-<a href="https://twitter.com/tonnieanto2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonnieanto2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/tonney-oballa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tonney-oballa/" height="30" width="40" /></a>
+<a href="https://codepen.io/ctonneyoballaodepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ctonneyoballaodepen.io/" height="20" width="20" /></a>
+<a href="https://dev.to/tonneyoballa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tonneyoballa" height="20" width="20" /></a>
+<a href="https://twitter.com/tonnieanto2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonnieanto2" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/tonney-oballa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tonney-oballa/" height="20" width="20" /></a>
+<a href="https://discord.gg/https://discord.gg/DZcWYeYG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/DZcWYeYG" height="20" width="20" />
 </p>
 
 ## Languages and Tools:
@@ -34,12 +35,13 @@ As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled 
 <h3 align="left">Support:</h3>
 <p>
   If you like what I'm doing, maybe consider buying me coffee🥺👉🏽👈🏽 <br><br>
-  <a href="https://www.buymeacoffee.com/buymeacoffee/tonneyoballa "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee/tonneyoballa " /></a></p><br><br>
+  <a href="https://www.buymeacoffee.com/buymeacoffee/tonneyoballa "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="25" width="105" alt="buymeacoffee/tonneyoballa " /></a></p><br><br>
 
 <br>
 <code> <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Life motto function on how to be awesome in code form<a href="https://twitter.com/hashtag/iLoveCode?src=hash&amp;ref_src=twsrc%5Etfw">#iLoveCode</a> <a href="http://t.co/acyulhUl7L">pic.twitter.com/acyulhUl7L</a></p>&mdash; Andela (@Andela) <a href="https://twitter.com/Andela/status/651006471271022592?ref_src=twsrc%5Etfw">October 5, 2015</a></blockquote> 
 </code>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonneyoballa&show_icons=true&locale=en" alt="tonneyoballa" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonneyoballa" alt="tonneyoballa" /></a> </p>
+
 
