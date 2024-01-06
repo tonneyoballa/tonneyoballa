@@ -35,7 +35,7 @@ As a <em>Full Stack Developer</em>, I thrive in the digital realm and am fueled 
 <h3 align="left">Support:</h3>
   <p>
     If you like what I'm doing, maybe consider buying me coffee🥺👉🏽👈🏽 <br><br>
-    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="tonneyoballa" data-color="#f8b996" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#FFDD00" ></script>
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="tonneyoballa" data-color="#f8b996" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#fff" data-font-color="#fff" data-coffee-color="#633f33" ></script>
   </p>
 <br><br>
 
