@@ -14,11 +14,11 @@ My work sits at the intersection of **data analysis, research, and social impact
 
 ### Connect with me
 <p align="left">
-  <a href="https://codepen.io/ctonneyoballa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="20" width="20" /></a>
-  <a href="https://dev.to/tonneyoballa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="20" width="20" /></a>
-  <a href="https://twitter.com/tonnieanto2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="20" width="20" /></a>
-  <a href="https://linkedin.com/in/tonneyoballa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="20" /></a>
-  <a href="https://discord.gg/DZcWYeYG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="20" width="20" /></a>
+  <a href="https://codepen.io/ctonneyoballa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="25" width="25" /></a>
+  <a href="https://dev.to/tonneyoballa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="25" width="25" /></a>
+  <a href="https://twitter.com/tonnieanto2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="25" width="25" /></a>
+  <a href="https://linkedin.com/in/tonneyoballa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="25" width="25" /></a>
+  <a href="https://discord.gg/DZcWYeYG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="25" width="25" /></a>
 </p>
 
 ### Languages and Tools
@@ -49,8 +49,3 @@ My work sits at the intersection of **data analysis, research, and social impact
   </a>
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tonneyoballa" alt="tonneyoballa" />
-  </a>
-</p>
